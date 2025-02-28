@@ -191,7 +191,9 @@ Review and implement input validation to handle empty messages properly and impr
 
 ## **8. Autor**
 
-[<img src="https://avatars.githubusercontent.com/u/168949963?v=4" width=115><br><sub>Emmanuel Paternina</sub>](https://github.com/EmmanuelMPJ)
+[<img src="https://avatars.githubusercontent.com/u/168949963?v=4" width=115><br><sub>Emmanuel Paternina</sub>](https://github.com/EmmanuelMPJ) (QA Tester)
+
+[<img src="https://avatars.githubusercontent.com/u/49574270?v=4" width=115><br><sub>juandiegou</sub>](https://github.com/juandiegou) (Assistance Dev)
 
 ---
 
