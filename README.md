@@ -137,10 +137,14 @@ pytest --html=report.html --self-contained-html
 
 It will generate a .html that can be opened on the browser, and it will desplay something like this:
 
+![image](https://github.com/user-attachments/assets/91cd219a-6908-44ce-9a11-bbd000e6c003)
+
+
 ### **6.4. Running tests evidence**
 
 when running the tests through the terminal something like the following should display:
 
+![image](https://github.com/user-attachments/assets/7368e2a0-ba90-43b4-a483-fdc3ac6504fb)
 
 ---
 
